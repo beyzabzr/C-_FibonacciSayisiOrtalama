@@ -1,0 +1,14 @@
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\bin\Debug\net8.0\fibonacciSayiOrtalamasi.exe
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\bin\Debug\net8.0\fibonacciSayiOrtalamasi.deps.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\bin\Debug\net8.0\fibonacciSayiOrtalamasi.runtimeconfig.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\bin\Debug\net8.0\fibonacciSayiOrtalamasi.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\bin\Debug\net8.0\fibonacciSayiOrtalamasi.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\obj\Debug\net8.0\fibonacciSayiOrtalamasi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\obj\Debug\net8.0\fibonacciSayiOrtalamasi.AssemblyInfoInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\obj\Debug\net8.0\fibonacciSayiOrtalamasi.AssemblyInfo.cs
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\obj\Debug\net8.0\fibonacciSayiOrtalamasi.csproj.CoreCompileInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\obj\Debug\net8.0\fibonacciSayiOrtalamasi.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\obj\Debug\net8.0\refint\fibonacciSayiOrtalamasi.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\obj\Debug\net8.0\fibonacciSayiOrtalamasi.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\obj\Debug\net8.0\fibonacciSayiOrtalamasi.genruntimeconfig.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\fibonacciSayiOrtalamasi\obj\Debug\net8.0\ref\fibonacciSayiOrtalamasi.dll
